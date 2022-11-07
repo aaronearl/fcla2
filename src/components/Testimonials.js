@@ -23,6 +23,15 @@ const Testimonials = () => (
             <li>
               <blockquote>
                 <p>
+                  Faith Community Foursquare Church has really been a blessing in my life. I have to live holy, and the things I have learned over the years have helped me be successful living holy – the Christian life. The Bible studies have truly been life changing and character building.
+
+                  An example of a life changing Bible study was when Pastor Paredes taught on LOVE. You think you know what love is until you’ve been taught what love is and what it is not.  The Word says that they will know us (Christians) by our LOVE. The Word says to LOVE the Lord and LOVE your neighbor as thyself. I can do that! I can do that because I’ve been taught what LOVE is extensively. Learning what LOVE is changed my life; I will never be the same. Thank God!
+
+                </p>
+                <cite>April Jackson Watson</cite>
+              </blockquote>
+              <blockquote>
+                <p>
                   We celebrate with you, Pastor Terry Paredes your family is Godly Proud of you and all of your work in the ministry over these last 54 years.  To God be the glory for the things he has done through your life thus far, BUT THE BEST IS YET TO COME!!!
                 </p>
                 <cite>Marcus, Teddi, Randi and Jeanine</cite>
